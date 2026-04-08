@@ -1,3 +1,11 @@
+Deskripsi Aplikasi : Aplikasi yang berfungsi untuk mempermudah pengguna dalam proses booking mobil. Aplikasi ini dirancang untuk memfasilitasi pengguna dalam melakukan pemesanan mobil dengan fitur-fitur seperti katalog mobil, detail spesifikasi, deskripsi mobil, dan kemampuan untuk menghubungi admin.
+
+Tampilan Pengguna:
+<img width="1913" height="887" alt="image" src="https://github.com/user-attachments/assets/49c28939-db2e-42af-8f98-27798ca2e4a5" />
+Tampilan Admin:
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/a45b511c-5200-4d28-931b-200aba5a8729" />
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
